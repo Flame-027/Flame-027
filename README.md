@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Husnain Majeed</h1>
 <h3 align="center">A passionate and self-driven Junior C# Developer</h3>
+<br>
+I am a junior developer who loves making things, some of my favourite technologies include C# and Object Oriented Programming.<br>
+Outside of development, I enjoy interacting with technologies such as Virtualization, Linux, Self-hosting as well as the open-source community.
+<br> <br>
 
 - 🔭 I’m currently working on [System & Network Health (Windows App)](github.com/Flame-027/SnN-Health-Monitor)
 

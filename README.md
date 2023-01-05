@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior C# Developer
 -------------------
 
-I am a junior developer who loves making things, some of my favourite technologies include C# and Object Oriented Programming. 
+I am a junior developer who loves making things, some of my favourite technologies include C# and Object Oriented Programming.<br>
 Outside of development, I enjoy interacting with technologies such as Virtualization, Linux, Self-hosting as well as the open-source community.
 
 * 🌍  I'm based in London

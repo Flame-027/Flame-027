@@ -13,7 +13,7 @@ Outside of development, I enjoy interacting with technologies such as Virtualiza
 
 - 💬 Ask me about **C#, .NET and OOP**
 
-- 📫 How to reach me **husnainm3@gmail.com & 07491686694**
+- 📫 How to reach me **husnainm3@gmail.com**
 
 - ⚡ Fun fact **I'm plotting for world domination, shh ;)**
 
